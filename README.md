@@ -4,11 +4,11 @@
 Вариант - 6 (животные).<br/>
 Реализация программы с использованием технологии JDBC и базы данных. Программа вводит, модифицирует и выводит данные на экран с использованием класса и его отображения через JDBC.
 
-![screenshot](Screenshot_1.PNG)
+![screenshot](Screenshot_1.png)
 
-![screenshot](Screenshot_2.PNG)
+![screenshot](Screenshot_2.png)
 
-![screenshot](Screenshot_3.PNG)
+![screenshot](Screenshot_3.png)
 
 ```
 CREATE TABLE IF NOT EXISTS `animal` (
