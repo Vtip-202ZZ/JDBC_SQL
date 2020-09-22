@@ -8,7 +8,7 @@
 
 ![screenshot](Screenshot_2.png)
 
-![screenshot](Screenshot_3.png)
+![screenshot](result.png)
 
 ```
 CREATE TABLE IF NOT EXISTS `animal` (
